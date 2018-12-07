@@ -1,3 +1,11 @@
+	<div class="container">
+		<div class="row justify-content-center align-items-center">
+			<div class="col-md-5 text-center">
+				<span><small>2018 &copy; Brandon D. Castillo</small></span>
+			</div>
+		</div>
+	</div>
+
 	<script src="<?=APP_URL_ROUTE;?>js/main.js"></script>
 	<!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
